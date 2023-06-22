@@ -1,2 +1,2 @@
-group_8_automotive_data.csv
-group_8_automotive_predict.csv
+*.csv
+*.joblib
